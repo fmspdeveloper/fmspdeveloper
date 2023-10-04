@@ -21,7 +21,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub]((https://github-readme-stats.vercel.app/api?username=fmspdeveloper&show_icons=true&count_private=true))
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fmspdeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Como Entrar em Contato
 
