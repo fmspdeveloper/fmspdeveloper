@@ -21,7 +21,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fmspdeveloper)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fmspdeveloper&theme=merko)
 
 ## 📫 Como Entrar em Contato
 
