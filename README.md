@@ -1,29 +1,56 @@
-# 👋 Olá, eu sou Felipe mangini
+# 💻 Felipe Mangini | Desenvolvedor Full Stack Junior
+
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2?style=flat-square)](https://fmdeveloper.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mangini-78a29b181)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/fmspdeveloper)
 
 ## 👨‍💻 Sobre Mim
 
-- 💼 [Desenvolvedor Web(foco em uso de plataformas opensource]
-- 🌍 [São Paulo/SP]
-- 🌱 Apaixonado por [tecnologicas em geral, sonho em ser desenvolvedor mobile mas ainda estou estudando sobre e em busca de oportunidade na area com foco em Front-end utiliznado JavaScript || Typescript|| Next ]
+Desenvolvedor Full Stack Junior com foco em JavaScript/TypeScript, apaixonado por criar soluções web eficientes. Atualmente me especializando em tecnologias modernas para desenvolvimento front-end e back-end.
 
-## 🔧 Tecnologias e Ferramentas
+**📍 Localização:** São Paulo/SP  
+**🎯 Objetivo:** Desenvolvedor Full Stack (React/Node.js/TypeScript)  
+**🚀 Hobbies:** Explorar novas tecnologias, contribuir para projetos open-source
 
-- Linguagens de Programação: [Javascript | Typescript | Next]
-- Bancos de Dados: [Mysql]
+## 🛠 Stack Principal
 
-## 🚀 Projetos Destacados
+### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## 📈 Estatísticas do GitHub
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fmspdeveloper&show_icons=true&theme=merko)]
+## 📊 GitHub Stats
 
-[![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fmspdeveloper&layout=donut-vertical)]
+<div align="center">
+  
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=fmspdeveloper&show_icons=true&theme=radical&hide_border=true)](https://github.com/fmspdeveloper)
+  
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fmspdeveloper&layout=compact&theme=radical&hide_border=true)](https://github.com/fmspdeveloper)
 
-## 📫 Como Entrar em Contato
+</div>
 
-Você pode me encontrar em:
+## 🌱 Atualmente Estudando
 
-- [LinkedIn]([Link para o seu perfil do LinkedIn](https://www.linkedin.com/in/felipe-mangini-78a29b181))
+<div align="center">
+  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discussões interessantes e colaborações!
+</div>
+
+## 📫 Vamos Conversar?
+
+Estou sempre aberto a novas oportunidades e colaborações. Não hesite em entrar em contato!
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/11992851157)
